@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho no Exército Brasileiro 
-- 🌱 Estou estudando C++ e cursando ADS 
+- 🌱 Estou estudando C, C++ e cursando ADS 
 - 🤔 Estou procurando me especializar em Front-end
 
   <div>
