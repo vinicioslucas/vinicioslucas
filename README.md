@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho no Exército Brasileiro 
 - 🌱 Estou estudando a HTML5, CSS3, JavaScript e React.
-- 🤔 Estou procurando me especializar em Desenvolvimento Front-end
+- 💻 Desenvolvedor Front-end na SCS
 
   <div> 
 Um eterno aprendiz
