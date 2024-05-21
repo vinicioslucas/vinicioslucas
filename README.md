@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como Cabo do Exército Brasileiro 
-- 🌱 Estou estudando a HTML5, CSS3, JavaScript e React.
+- 🌱 Estou estudando a HTML5, CSS3, JavaScript, React e React Native.
 - 📚 3º Período de Análise e Desenvolvimento de Sistemas.
 - 💻 Desenvolvedor Front-end na SCS
 
