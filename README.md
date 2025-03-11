@@ -1,7 +1,6 @@
 <h1>E ai pessoal, Me chamo Lucas Vinícios 👋</h1>
 
 
-- 🔭 Hoje trabalho como Cabo do Exército Brasileiro 
 - 🌱 Estou estudando a HTML5, CSS3, JavaScript, React e React Native.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas.
 - 💻 Desenvolvedor Front-end na SCS
