@@ -3,7 +3,7 @@
 
 - 🌱 Estou estudando a HTML5, CSS3, JavaScript, React e React Native.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas.
-- 💻 Desenvolvedor Front-end na SCS
+- 💻 Desenvolvedor Front-end.
 
   <div> 
 <h2>Um eterno aprendiz</h2>
